@@ -4,7 +4,7 @@ This project implements an advanced **Network Intrusion Detection System (NIDS)*
 
 ---
 
-## 🧠 Project Objective
+## Project Objective
 
 The goal is to develop a **robust**, **adaptive**, and **intelligent IDS** that can:
 - Continuously learn and improve from real-time feedback.
@@ -13,7 +13,7 @@ The goal is to develop a **robust**, **adaptive**, and **intelligent IDS** that 
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 ### 1. **Hybrid Learning Framework**
 - **Supervised Learning** (for known threats):
@@ -49,7 +49,7 @@ The goal is to develop a **robust**, **adaptive**, and **intelligent IDS** that 
 
 ---
 
-## 📊 Datasets Used
+## Datasets Used
 
 - **SQL Injection Dataset** (Kaggle): Simulates structured query manipulation attacks.
   - Link: [SQL Injection Dataset](https://www.kaggle.com/datasets/syedsaqlainhussain/sql-injection-dataset)
@@ -61,7 +61,7 @@ Each dataset undergoes cleaning, encoding, and scaling before being used in trai
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Data Preprocessing**
    - Missing value handling, duplicate removal
@@ -84,7 +84,7 @@ Each dataset undergoes cleaning, encoding, and scaling before being used in trai
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Programming Language**: Python 3.8+
 - **Libraries**:
@@ -96,7 +96,7 @@ Each dataset undergoes cleaning, encoding, and scaling before being used in trai
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 - **Classification**: Accuracy, Precision, Recall, F1-Score
 - **Clustering**: Elbow Method, Silhouette Score
@@ -105,7 +105,7 @@ Each dataset undergoes cleaning, encoding, and scaling before being used in trai
 
 ---
 
-## 🧪 Testing Strategy
+## Testing Strategy
 
 - **Unit Tests**: Each preprocessing and model function tested independently.
 - **Integration Tests**: Entire pipeline from preprocessing to model output validated.
@@ -114,7 +114,7 @@ Each dataset undergoes cleaning, encoding, and scaling before being used in trai
 
 ---
 
-## 📤 Deployment & Scalability
+## Deployment & Scalability
 
 - Future plan to deploy via **Flask API** or **Docker container**.
 - System is compatible with **GPU acceleration** for DQN/Actor-Critic models.
@@ -122,17 +122,17 @@ Each dataset undergoes cleaning, encoding, and scaling before being used in trai
 
 ---
 
-## 🔭 Future Enhancements
+## Future Enhancements
 
-- ✅ Integrate autoencoders or LSTMs for time-series traffic patterns.
-- ✅ Enable semi-supervised learning with manual analyst validation.
-- ✅ Use **Federated Learning** for privacy-preserving distributed training.
-- ✅ Add SHAP or LIME for **Explainable AI** support.
-- ✅ Validate system on NSL-KDD and CICIDS2017 datasets for generalizability.
+-  Integrate autoencoders or LSTMs for time-series traffic patterns.
+-  Enable semi-supervised learning with manual analyst validation.
+-  Use **Federated Learning** for privacy-preserving distributed training.
+-  Add SHAP or LIME for **Explainable AI** support.
+-  Validate system on NSL-KDD and CICIDS2017 datasets for generalizability.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Abhishek Kumar**  
 Final Year B.Tech - Computer Science and Engineering  
@@ -141,7 +141,7 @@ Supervisor: Prof. Anisha M. Lal
 
 ---
 
-## 📜 License
+## License
 
 This project was developed as part of the B.Tech Final Year Capstone Project at **Vellore Institute of Technology (VIT)**.  
 All rights reserved. Distribution or reproduction of this work or its components is prohibited without prior permission from the author and the university.
